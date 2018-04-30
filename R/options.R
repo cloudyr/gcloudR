@@ -3,6 +3,7 @@ to_load <- c("bigQueryR",
              "googleAuthR",
              "googleCloudStorageR",
              "googleComputeEngineR",
+             "googleKubernetesR",
              "googleLanguageR"
              # "searchConsoleR"
              )
